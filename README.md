@@ -1,13 +1,8 @@
 # Pastebox
 
-This is a Pastebin clone written in Java using Spring.
+This is a full-stack Pastebin clone with a Java (Spring) backend and a React frontend.
 
-## API Documentation
+## Running
 
-<dl>
-    <dt>/api/paste</dt>
-    <dd>PUT mapping for a new paste (content type application/String). Includes ID of new paste in response body.</dd>
-    <dt>/api/retrieve?id=[ID]</dt>
-    <dd>Returns contents of a paste (or an error).</dd>
-</dl>
+Run with `./gradlew bootRun` and then access at `http://localhost:8080`. Alternatively, download the `jar` and run with `java -jar [jarfile]`.
 
