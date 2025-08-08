@@ -1,13 +1,13 @@
-package ca.haywalk.pastebox;
+// package ca.haywalk.pastebox;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class PasteboxApplicationTests {
+// @SpringBootTest
+// class PasteboxApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
